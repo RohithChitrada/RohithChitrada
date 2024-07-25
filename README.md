@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*0hcduJ-1b1OU7gPDb-Uz0A.jpeg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithchitrada&label=Profile%20views&color=0e75b6&style=flat" alt="rohithchitrada" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithchitrada&label=Profile%20views&color=0e75b6&style=flat" style='border-radius:10px' alt="rohithchitrada" /> </p>
 
 
 - 🌱 I’m currently learning **React**
